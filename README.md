@@ -2,7 +2,7 @@
 A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados.
 
 <h2> Perguntas Propostas </h2>
-⇨ Existem outras entidades além dessas três?<br/>
+⇨ <b/>Existem outras entidades além dessas três(aluno, turma e curso)?<b/><br/>
 ⇨ Quais são os principais campos e tipos?<br/>
 ⇨ Como essas entidades estão relacionadas?<br/>
 
